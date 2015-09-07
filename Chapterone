@@ -8,7 +8,6 @@ import Data.List
 -- 1.a
 
 null' [] = True
-  |otherwise = False
   
 --pembatas
 
